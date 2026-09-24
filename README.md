@@ -1,4 +1,4 @@
-<h1>Sobhana Aishwarya Kantapalli</h1>
+<img width="1910" height="1017" alt="image" src="https://github.com/user-attachments/assets/94fa21a1-4014-40b4-a1b8-98100fb99476" /><h1>Sobhana Aishwarya Kantapalli</h1>
 
 <p>
   <b>B.Tech CSE '27 · Data Science, Machine Learning & applied AI</b><br/>
@@ -118,4 +118,4 @@ Customer churn and fraud detection on real-world datasets - preprocessing, featu
 
 ### Beyond code
 
-5-star Python on HackerRank · LeetCode 50 Days badge · NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
+5-star Python on HackerRank · LeetCode 50 Days badge· LeetCode 100 Days badge·  NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
