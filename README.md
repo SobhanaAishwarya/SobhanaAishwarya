@@ -2,7 +2,7 @@
 
 <p>
   <b>B.Tech CSE '27 · Data Science, Machine Learning & applied AI</b><br/>
-  I build ML models and the software around them — from a cleaned dataset to something a person can actually click on.
+  I build ML models and the software around them - from a cleaned dataset to something a person can actually click on.
 </p>
 
 <p>
@@ -22,13 +22,13 @@ giving it an interface, a data pipeline and sensible failure behaviour.
 
 Most of what I've built falls into three buckets:
 
-- **Classical ML on imbalanced data** — churn, fraud and equipment-failure prediction with Scikit-learn and SMOTE
-- **Retrieval-augmented and agentic AI** — document-grounded assistants with citations, and multi-agent pipelines where rules make the decisions and the LLM explains them
-- **Full-stack apps** — Flask, FastAPI and React projects with real auth, databases and tests
+- **Classical ML on imbalanced data** - churn, fraud and equipment-failure prediction with Scikit-learn and SMOTE
+- **Retrieval-augmented and agentic AI** - document-grounded assistants with citations, and multi-agent pipelines where rules make the decisions and the LLM explains them
+- **Full-stack apps** - Flask, FastAPI and React projects with real auth, databases and tests
 
 ### Right now
 
-- **Agentic AI Intern, Capabl India** (Mar 2026 – present) — working on RAG, semantic search and vector retrieval; leading a five-person project team
+- Recently completed an **Agentic AI internship at Capabl India** (RAG, semantic search, vector retrieval), where I led a five-person project team
 - Exploring how to make LLM answers **grounded and verifiable**: chunking strategies, embedding models and refusing when the source doesn't have the answer
 
 ---
@@ -38,8 +38,8 @@ Most of what I've built falls into three buckets:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/SobhanaAishwarya/Subject-Guide-and-Question-bank-Assistant-AI-Agent">StudyAI — Subject Guide & Question Bank Assistant</a></h4>
-      RAG study assistant: upload PDFs, DOCX or PPTX and get cited answers, question banks, quizzes, flashcards and graded mock interviews — with an explicit refusal when the notes don't cover it.<br/><br/>
+      <h4><a href="https://github.com/SobhanaAishwarya/Subject-Guide-and-Question-bank-Assistant-AI-Agent">StudyAI - Subject Guide & Question Bank Assistant</a></h4>
+      RAG study assistant: upload PDFs, DOCX or PPTX and get cited answers, question banks, quizzes, flashcards and graded mock interviews - with an explicit refusal when the notes don't cover it.<br/><br/>
       <sub>Python · Streamlit · Sentence Transformers · FAISS · LangChain splitters · OpenRouter</sub><br/>
       <sub><a href="https://subject-guide-and-question-bank-assistant-ai-agent-jtomhsyrpfj.streamlit.app/">Live demo</a></sub>
     </td>
@@ -52,20 +52,21 @@ Most of what I've built falls into three buckets:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/SobhanaAishwarya/ondc-trustmesh">TrustMesh — Blockchain-AI trust layer for ONDC</a></h4>
+      <h4><a href="https://github.com/SobhanaAishwarya/ondc-trustmesh">TrustMesh - Blockchain-AI trust layer for ONDC</a></h4>
       Marketplace backend and dashboards with seller trust scoring, Random Forest fraud flagging, a hybrid recommender and escrow-based dispute resolution backed by Solidity contracts.<br/><br/>
       <sub>FastAPI · PostgreSQL · Redis · React + TypeScript · Solidity / Hardhat · Scikit-learn</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/industrial-iot-pump-failure-prediction">Industrial IoT Pump Failure Prediction</a></h4>
       Leakage-safe Scikit-learn pipeline that predicts pump failure from sensor telemetry, compares three models with stratified CV and keeps predicting when sensors drop out.<br/><br/>
-      <sub>Python · Scikit-learn · Plotly · Streamlit · Joblib</sub>
+      <sub>Python · Scikit-learn · Plotly · Streamlit · Joblib</sub><br/>
+      <sub>AI & ML internship · IBM ICE × Q2D</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/Fraud-Detection-System">Fraud Detection System</a></h4>
-      Supervised and unsupervised fraud detection — Logistic Regression, Decision Tree and MLP alongside Isolation Forest and an autoencoder — with SMOTE for the class imbalance.<br/><br/>
+      Supervised and unsupervised fraud detection - Logistic Regression, Decision Tree and MLP alongside Isolation Forest and an autoencoder - with SMOTE for the class imbalance.<br/><br/>
       <sub>Python · Scikit-learn · TensorFlow · imbalanced-learn · Streamlit</sub><br/>
       <sub><a href="https://fraud-detection-system-8gc4cp5aef3ekyxqpavmn2.streamlit.app/">Live demo</a></sub>
     </td>
@@ -83,8 +84,8 @@ Most of what I've built falls into three buckets:
 
 | Project | What it is |
 |---|---|
-| [Customer Churn Prediction](https://github.com/SobhanaAishwarya/Customer-Churn-Prediction) | Telecom churn model and Streamlit dashboard — SMOTE, three classifiers, business analytics · [live demo](https://customer-churn-prediction-7hwogoiapr8qrykx5tn4ed.streamlit.app/) |
-| [RoomieOS](https://github.com/SobhanaAishwarya/roomie-os) | React app for shared households — expense splitting with debt simplification, bills, chores and analytics |
+| [Customer Churn Prediction](https://github.com/SobhanaAishwarya/Customer-Churn-Prediction) | Telecom churn model and Streamlit dashboard - SMOTE, three classifiers, business analytics · [live demo](https://customer-churn-prediction-7hwogoiapr8qrykx5tn4ed.streamlit.app/) |
+| [RoomieOS](https://github.com/SobhanaAishwarya/roomie-os) | React app for shared households - expense splitting with debt simplification, bills, chores and analytics |
 | [SmartExpenseAnalyzer](https://github.com/SobhanaAishwarya/SmartExpenseAnalyzer) | Small Java/Maven project used to practise JUnit testing and a Jenkins CI pipeline |
 
 </details>
@@ -93,11 +94,14 @@ Most of what I've built falls into three buckets:
 
 ### Experience
 
-**Agentic AI Intern** · Capabl India · *Mar 2026 – present*<br/>
+**AI & ML Intern** · IBM Innovation Centre for Education × Q2D (PEARL program) · *May - Jul 2026*<br/>
+Built the [Industrial IoT Pump Failure Prediction](https://github.com/SobhanaAishwarya/industrial-iot-pump-failure-prediction) system: sensor-telemetry preprocessing, a three-model comparison with stratified cross-validation, and a Streamlit dashboard for live predictions.
+
+**Agentic AI Intern** · Capabl India · *Mar 2026, completed*<br/>
 RAG, semantic search, embedding models and LLM-backed applications. Team lead for a five-member Agentic AI project.
 
-**Data Science Intern** · Codec Technologies · *May – Jun 2025*<br/>
-Customer churn and fraud detection on real-world datasets — preprocessing, feature scaling, SMOTE and model comparison with Scikit-learn and TensorFlow.
+**Data Science Intern** · Codec Technologies · *May - Jun 2025*<br/>
+Customer churn and fraud detection on real-world datasets - preprocessing, feature scaling, SMOTE and model comparison with Scikit-learn and TensorFlow.
 
 ---
 
@@ -116,4 +120,4 @@ Customer churn and fraud detection on real-world datasets — preprocessing, fea
 
 ### Beyond code
 
-5-star Python on HackerRank · NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
+5-star Python on HackerRank · LeetCode 50 Days badge · NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
