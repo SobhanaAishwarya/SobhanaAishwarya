@@ -40,8 +40,7 @@ Most of what I've built falls into three buckets:
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/Subject-Guide-and-Question-bank-Assistant-AI-Agent">StudyAI - Subject Guide & Question Bank Assistant</a></h4>
       RAG study assistant: upload PDFs, DOCX or PPTX and get cited answers, question banks, quizzes, flashcards and graded mock interviews - with an explicit refusal when the notes don't cover it.<br/><br/>
-      <sub>Python · Streamlit · Sentence Transformers · FAISS · LangChain splitters · OpenRouter</sub><br/>
-      <sub><a href="https://subject-guide-and-question-bank-assistant-ai-agent-jtomhsyrpfj.streamlit.app/">Live demo</a></sub>
+      <sub>Python · Streamlit · Sentence Transformers · FAISS · LangChain splitters · OpenRouter</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/Scheme-matcher-ai">Government Scheme Matcher</a></h4>
@@ -67,8 +66,7 @@ Most of what I've built falls into three buckets:
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/Fraud-Detection-System">Fraud Detection System</a></h4>
       Supervised and unsupervised fraud detection - Logistic Regression, Decision Tree and MLP alongside Isolation Forest and an autoencoder - with SMOTE for the class imbalance.<br/><br/>
-      <sub>Python · Scikit-learn · TensorFlow · imbalanced-learn · Streamlit</sub><br/>
-      <sub><a href="https://fraud-detection-system-8gc4cp5aef3ekyxqpavmn2.streamlit.app/">Live demo</a></sub>
+      <sub>Python · Scikit-learn · TensorFlow · imbalanced-learn · Streamlit</sub>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/SobhanaAishwarya/blood-donor-connector">Blood Donor Connector</a></h4>
@@ -84,7 +82,7 @@ Most of what I've built falls into three buckets:
 
 | Project | What it is |
 |---|---|
-| [Customer Churn Prediction](https://github.com/SobhanaAishwarya/Customer-Churn-Prediction) | Telecom churn model and Streamlit dashboard - SMOTE, three classifiers, business analytics · [live demo](https://customer-churn-prediction-7hwogoiapr8qrykx5tn4ed.streamlit.app/) |
+| [Customer Churn Prediction](https://github.com/SobhanaAishwarya/Customer-Churn-Prediction) | Telecom churn model and Streamlit dashboard - SMOTE, three classifiers, business analytics |
 | [RoomieOS](https://github.com/SobhanaAishwarya/roomie-os) | React app for shared households - expense splitting with debt simplification, bills, chores and analytics |
 | [SmartExpenseAnalyzer](https://github.com/SobhanaAishwarya/SmartExpenseAnalyzer) | Small Java/Maven project used to practise JUnit testing and a Jenkins CI pipeline |
 
