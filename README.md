@@ -118,4 +118,4 @@ Customer churn and fraud detection on real-world datasets - preprocessing, featu
 
 ### Beyond code
 
-5-star Python on HackerRank · LeetCode 50 Days badge· LeetCode 100 Days badge·  NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
+5-star Python on HackerRank · LeetCode 50 Days badge · LeetCode 100 Days badge ·  NSS volunteer (Photography Head, then Documentation Head) · speaks English, Telugu and Hindi.
